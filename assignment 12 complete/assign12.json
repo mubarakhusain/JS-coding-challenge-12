@@ -1,0 +1,82 @@
+{
+	"products": [{
+			"id": "productCarda",
+			"titleProduct": "t-shirt",
+			"price": 1099,
+			"priceAfterDisc": 599,
+			"imgName": "cart1",
+			"new": "TRUE",
+			"rating": 4,
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png",
+			"fristIcon": "firstImg",
+			"secondIcon": "secondImg",
+			"thirdIcon": "thirdImg"
+		},
+		{
+			"id": "productCardb",
+			"titleProduct": "awsm-t",
+			"price": 1055,
+			"priceAfterDisc": 899,
+			"imgName": "cart2",
+			"new": "FALSE",
+			"rating": 3,
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png",
+			"fristIcon": "firstImg",
+			"secondIcon": "secondImg",
+			"thirdIcon": "thirdImg"
+		},
+		{
+			"id": "productCardc",
+			"titleProduct": "red-tank",
+			"price": 1063,
+			"priceAfterDisc": 799,
+			"imgName": "cart3",
+			"new": "TRUE",
+			"rating": 4,
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png",
+			"fristIcon": "firstImg",
+			"secondIcon": "secondImg",
+			"thirdIcon": "thirdImg"
+		},
+		{
+			"id": "productCardd",
+			"titleProduct": "hello",
+			"price": 544,
+			"priceAfterDisc": 799,
+			"imgName": "cart4",
+			"new": "TRUE",
+			"rating": 4,
+			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png",
+			"fristIcon": "firstImg",
+			"secondIcon": "secondImg",
+			"thirdIcon": "thirdImg"
+		},
+		{
+			"id": "productCarde",
+			"titleProduct": "hey-t",
+			"price": 999,
+			"priceAfterDisc": 699,
+			"imgName": "cart5",
+			"new": "FALSE",
+			"rating": 3,
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png",
+			"fristIcon": "firstImg",
+			"secondIcon": "secondImg",
+			"thirdIcon": "thirdImg"
+		},
+		{
+			"id": "productCardf",
+			"title-product": "shirtHello",
+			"price": 1288,
+			"priceAfterDisc": 899,
+			"imgName": "cart6",
+			"new": "TRUE",
+			"rating": 4,
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png",
+			"fristIcon": "firstImg",
+			"secondIcon": "secondImg",
+			"thirdIcon": "thirdImg"
+		}
+
+	]
+}
